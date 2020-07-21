@@ -1,0 +1,27 @@
+.menu{
+    background-color: #616161;
+}
+
+
+.fondo{
+    background-image: url(multimedia/img/fondo.jpg);
+}
+
+
+.imagen_mia{
+    margin-top: 100px;
+    margin-left: 600px;
+    width: 200px;
+}
+
+
+.informacion{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.video1{
+    margin-left: 450px;
+    margin-top: 70px;
+}
